@@ -1,14 +1,14 @@
 {
-  "name": "pancakeswap-peripheral",
+  "name": "@vvs-finance/vvs-swap-periphery",
   "version": "1.1.0-beta.0",
-  "description": "🎚 Peripheral smart contracts for interacting with pancake",
+  "description": "🎚 Peripheral smart contracts for interacting with VVS",
   "engines": {
     "node": ">=10"
   },
-  "homepage": "https://pancakeswap.finance",
+  "homepage": "https://vvs.finance",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pancakeswap/pancake-swap-periphery.git"
+    "url": "https://github.com/vvs-finance/vvs-swap-periphery.git"
   },
   "files": [
     "build",

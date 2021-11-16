@@ -1,6 +1,6 @@
 pragma solidity >=0.6.2;
 
-interface IPancakeRouter01 {
+interface IVVSRouter01 {
     function factory() external pure returns (address);
     function WETH() external pure returns (address);
 
