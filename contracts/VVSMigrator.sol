@@ -17,7 +17,7 @@ contract VVSMigrator is IVVSMigrator {
         router = IVVSRouter01(_router);
     }
 
-    // needs to accept ETH from any v1 exchange and the router. ideally this could be enforced, as in the router,
+    // needs to accept ETH from any v1 exchange and the router. Ideally this could be enforced, as in the router,
     // but it's not possible because it requires a call to the v1 factory, which takes too much gas
     receive() external payable {}
 
