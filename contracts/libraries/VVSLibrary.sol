@@ -1,6 +1,6 @@
 pragma solidity >=0.5.0;
 
-import '../../vvs-swap-core/contracts/interfaces/IVVSPair.sol';
+import '@vvs-finance/vvs-swap-core/contracts/interfaces/IVVSPair.sol';
 
 import "./SafeMath.sol";
 

@@ -1,6 +1,6 @@
 pragma solidity >=0.5.0;
 
-import '../../vvs-swap-core/contracts/interfaces/IVVSPair.sol';
+import '@vvs-finance/vvs-swap-core/contracts/interfaces/IVVSPair.sol';
 import '@uniswap/lib/contracts/libraries/FixedPoint.sol';
 
 // library with helper methods for oracles that are concerned with computing average prices

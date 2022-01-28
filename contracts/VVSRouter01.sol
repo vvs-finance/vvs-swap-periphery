@@ -1,6 +1,6 @@
 pragma solidity =0.6.6;
 
-import '../vvs-swap-core/contracts/interfaces/IVVSFactory.sol';
+import '@vvs-finance/vvs-swap-core/contracts/interfaces/IVVSFactory.sol';
 import '@uniswap/lib/contracts/libraries/TransferHelper.sol';
 
 import './libraries/VVSLibrary.sol';
